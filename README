@@ -1,0 +1,6 @@
+Há dois arquivos R com codagem R, um se trata da correlação que fiz entre as variáveis e o outro se trata do machine learning de previsão dos preços dos alugueis. 
+Eles podem ser rodados no programa desktop R Studio. Caso seja necessário aqui um vídeo de 1 minuto sobre como instalar a linguagem R e RSTUDIO no computador: https://www.youtube.com/watch?v=PgTGLHAGdIE
+E também pode ser rodado no VSCODE (Necessário instalar suportes para linguagem R)
+Após abrir o Rstudio, clique na aba de "File" no canto superior esquerdo, e em seguida clique em "Open File", e selecione os 2 arquivos. 
+Todos os pacotes de importação necessários estão no código, é apenas necessário roda-los clicando ctrl+A para selecionar tudo, e com tudo selecionado, apertar em ctrl+Enter para fazer todo o código executar.
+As explicações do que cada coisa faz e passo a passo da codagem está comentado no própio código.
